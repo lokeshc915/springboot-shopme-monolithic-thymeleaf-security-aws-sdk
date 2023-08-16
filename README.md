@@ -1,0 +1,1 @@
+# springboot-shopme-monolithic-thymeleaf-security-aws-sdk
